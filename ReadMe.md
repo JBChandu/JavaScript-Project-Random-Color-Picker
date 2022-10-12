@@ -1,6 +1,6 @@
 # JavaScript Project - Random Color Picker
 
-## ** Project: One Stop for all the colors **
+## **Project: One Stop for all the colors**
 
 ![Badge](https://img.shields.io/badge/Javascript-Random_Color_Picker-brightgreen "QRServer API")
 
